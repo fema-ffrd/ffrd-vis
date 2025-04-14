@@ -1,0 +1,4 @@
+hypercorn
+gunicorn==20.1.0
+titiler-core==0.20.1
+uvicorn==0.34.0
